@@ -6,6 +6,12 @@ An advanced, web-based tool that leverages the Google Gemini API to transform st
 ### GIF Demo
 ![Demo GIF](output/output.gif)
 
+
+## 🌐 Live Demo
+
+[![AI Product Photo Studio Demo](https://img.youtube.com/vi/TFrjMJY9JtM/maxresdefault.jpg)](https://youtu.be/TFrjMJY9JtM)
+
+Check out the GitHub repository: [AI-Product-Photo-Studio](https://github.com/alok-ahirrao/AI-Product-Photo-Studio)
 ## 📜 Table of Contents
 
 - [Live Demo](#-live-demo)
@@ -21,11 +27,6 @@ An advanced, web-based tool that leverages the Google Gemini API to transform st
 - [Contributing](#-contributing)
 - [License](#-license)
 
-## 🌐 Live Demo
-
-[![AI Product Photo Studio Demo](https://img.youtube.com/vi/TFrjMJY9JtM/maxresdefault.jpg)](https://youtu.be/TFrjMJY9JtM)
-
-Check out the GitHub repository: [AI-Product-Photo-Studio](https://github.com/alok-ahirrao/AI-Product-Photo-Studio)
 
 ## 🌟 Introduction
 
